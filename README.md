@@ -1,7 +1,7 @@
 # Project-List
 
 
-<h3>My Android App List : </h3>
+<h2>My Android App List : </h2>
 
 <table>
   <tr>
@@ -11,7 +11,9 @@
     <th>GitHub</th>
   </tr>
    <tr>
-    <td>Upbh : Unlimited Pdf Book House</td>
+    <th align="left">
+      1. Upbh : Unlimited Pdf Book House
+     </th>
      <td>
       <ul>
         <li>BookMark and Light/dark more feature</li>
@@ -43,12 +45,12 @@
 
   
    <tr>
-    <td>GlobalUniGuide:Study Materials</td>
+    <th align="left">2. GlobalUniGuide:Study Materials</th>
      <td> 
        <ul>
-         <li>📘 Access university details & exam results</li>
-         <li>📖 Practice words with a built-in dictionary</li>
-         <li>🎓 Take courses for enhanced learning</li>
+         <li>Access university details & exam results</li>
+         <li>Practice words with a built-in dictionary</li>
+         <li>Take courses for enhanced learning</li>
        </ul>
      </td>
     <td>
@@ -67,6 +69,27 @@
   
 
 
+
+<tr>
+    <th align="left">3. SelfMe</th>
+     <td> 
+       <ul>
+         <li>Promote Website,See status</li>
+         <li>Earn Points and Money Playing Simple tasks</li>
+         <li>Admin manage task,Verify Account and transection</li>
+       </ul>
+     </td>
+    <td>
+      <ul> 
+        <li>Language : Java</li>
+        <li>Design : xml</li>
+        <li>Tools : Firebase Realtime,FCM,Onesignal</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://github.com/RlM100always/EarningApp">See Details</a>
+    </td>
+  </tr>
 
 
 
