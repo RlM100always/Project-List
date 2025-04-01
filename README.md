@@ -5,15 +5,19 @@
 
 <table>
   <tr>
-    <th >App Name</th>
+    <th>App Name</th>
     <th>App Description</th>
     <th>Tech Stack</th>
-    <th>GitHub Repository</th>
+    <th>GitHub</th>
   </tr>
    <tr>
     <td>Upbh : Unlimited Pdf Book House</td>
      <td>
-      User Can Read Books
+      <ul>
+        <li>BookMark and Light/dark more feature</li>
+        <li>Daily/Weekly Books feature , Book Request,Notification </li>
+        <li>Admin Manange app control ads , notification,free and paid books </li>
+      </ul>
     </td>
     <td>
       <ul> 
@@ -23,7 +27,7 @@
       </ul>
     </td>
     <td>
-      <a href="https://github.com/RlM100always/UPBH-Unlimited-Pdf-Book-House">Project Details</a>
+      <a href="https://github.com/RlM100always/UPBH-Unlimited-Pdf-Book-House">See Details</a>
     </td>
   </tr>
 
@@ -39,14 +43,14 @@
 
   
    <tr>
-    <td>GlobalUniGuide</td>
-     <td>
-      <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
-    </td>
+    <td>GlobalUniGuide:Study Materials</td>
+     <td> 
+       <ul>
+         <li>📘 Access university details & exam results</li>
+         <li>📖 Practice words with a built-in dictionary</li>
+         <li>🎓 Take courses for enhanced learning</li>
+       </ul>
+     </td>
     <td>
       <ul> 
         <li>Language : Java</li>
@@ -55,7 +59,7 @@
       </ul>
     </td>
     <td>
-      <a href="https://github.com/RlM100always/GlobalUniGuide/tree/master">Project Details</a>
+      <a href="https://github.com/RlM100always/GlobalUniGuide/tree/master">See Details</a>
     </td>
   </tr>
 
