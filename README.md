@@ -5,10 +5,10 @@
 
 <table>
   <tr>
-    <th style="text-align:left;">App Name</th>
-    <th style="text-align:right;">App Description</th>
-    <th style="text-align:right;">Tech Stack</th>
-    <th style="text-align:center;">GitHub Repository</th>
+    <th >App Name</th>
+    <th>App Description</th>
+    <th>Tech Stack</th>
+    <th>GitHub Repository</th>
   </tr>
    <tr>
     <td>Upbh : Unlimited Pdf Book House</td>
@@ -41,8 +41,11 @@
    <tr>
     <td>GlobalUniGuide</td>
      <td>
-      Educational Application designed for university students! 🎓
-Students can access detailed information about universities, practice words with a dictionary, take courses, and view exam results. 📚💡
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
     </td>
     <td>
       <ul> 
